@@ -55,7 +55,7 @@ Created by ***Mariano Garcia Melo***
 Computer Science Student | iOS Developer in Training
 
 📬 garciamelomariano@gmail.com 
-🔗 [linkedin.com/in/marianogarciamelo](https://linkedin.com/in/marianogarciamelo)
+🔗 [linkedin.com/in/mariano-garcia-melo](https://www.linkedin.com/in/mariano-garcia-melo/)
 
 ---
 
