@@ -33,6 +33,7 @@ JustCookBro is a social cooking app where users post photos of what they're eati
 ---
 
 ## 📸 Screenshots
+<br/>
 
 <p align="center">
   <img src="./IMG_2542.png" alt="Camera View" width="300"/>
