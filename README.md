@@ -32,6 +32,16 @@ JustCookBro is a social cooking app where users post photos of what they're eati
 
 ---
 
+## 📸 Screenshots
+
+![Post Creation UI](./IMG_2542.png)  
+*In-app camera view allowing users to take meal photos before posting.*
+
+![Photo Capture View](./IMG_2543.png)  
+*UI for entering a meal caption and optional recipe text before submitting a post.*
+
+---
+
 ## 🧪 Technologies Used
 
 - **Swift / SwiftUI**
